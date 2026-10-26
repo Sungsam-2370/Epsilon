@@ -4161,6 +4161,23 @@
       "screens": 5
     },
     {
+      "name": "SCARF",
+      "title": "Scarface",
+      "author": "LordErick - NxMasters - Carafe/WineNx",
+      "version": "1.0.0",
+      "description": "Port PC",
+      "details": "Scarface: The World Is Yours (2006) es uno de los mejores y más memorables clones de Grand Theft Auto, destacando por atreverse a cambiar el trágico desenlace de la película original\n\nEl videojuego arranca con una premisa tan loca como atractiva: ¿Qué hubiera pasado si Tony Montana sobrevivía al asalto final en su mansión?. A partir de este Y si..., el título ofrece una violenta, adictiva e increíblemente fiel simulación del ascenso al poder criminal\n\nA nivel argumental, tras escapar con vida de los sicarios de Alejandro Sosa, Tony lo pierde absolutamente todo: su dinero, sus contactos, sus territorios y su orgullo. El objetivo principal de la aventura es recuperar su imperio en Miami desde el mismísimo barro, escalando peldaño a peldaño mediante el tráfico de sustancias, la extorsión y la eliminación sistemática de bandas rivales\n\nLa jugabilidad brilla gracias a mecánicas con mucha personalidad propia que evitan que el título se sienta como una simple copia barata de GTA. El combate en tercera persona introduce un sistema de apuntado localizado muy sangriento que permite desmembrar enemigos. Lo más divertido es el medidor de cojones (o bolas), el cual se llena insultando a tus oponentes en mitad de las balaceras o conduciendo de forma temeraria. Al completarse este medidor, se activa un modo de furia ciega en primera persona donde eres invencible, tienes munición ilimitada y recuperas vida por cada baja\n\nLa gestión del imperio criminal tiene un peso masivo a través de dinámicos minijuegos de precisión para negociar con camellos, intimidar o lavar el dinero en los bancos antes de que la policía (que es sumamente implacable) te mate y te lo quite todo. Además, se respeta estrictamente el código moral del personaje, impidiendo por completo dañar a civiles inocentes\n\nEn el apartado técnico y sonoro, la atmósfera de los años 80 está logradísima. La banda sonora combina de manera genial los temas icónicos de la película con música licenciada de la época. Aunque Al Pacino no prestó su voz debido a problemas de agenda, dio su bendición para usar su rostro y el actor seleccionado para el doblaje clava los ademanes, los insultos bilingües y el característico acento cubano del protagonista\n\nNo solo expande la mitología de Tony Montana de forma digna, sino que aportó ideas frescas al género del mundo abierto que incluso títulos posteriores terminaron imitando. Un clásico imprescindible de la generación\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "instalacion_directa": "http://205.209.102.107/Luis/Dir/SCARF.nsz",
+      "license": "Español",
+      "category": "NxMasters",
+      "binary": "/none",
+      "filesize": 4004955,
+      "extracted": 4004955,
+      "updated": "16/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
