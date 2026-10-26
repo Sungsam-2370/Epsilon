@@ -4178,6 +4178,24 @@
       "screens": 5
     },
     {
+      "name": "MDOUBLE",
+      "title": "Mario Kart: Double Dash!!",
+      "author": "digdat0",
+      "version": "1.6.1",
+      "description": "Port Gamecube",
+      "details": "Incluye los mods de Mario Kart Double Dash Plus , Mario Kart Double Dash Retro Track Grand Prix, asi como mod de texturas en HD\n\nMenu de Opciones, Pulsa el botón − (menos) en cualquier momento para acceder al menú de configuración. El juego se pausará mientras el menú permanezca abierto, podras cambiar muchas opciones y cambiar el tipo de juego entre el original, el plus y el retro.\n\nLanzado originalmente en 2003 para Nintendo GameCube, Mario Kart: Double Dash!! destaca por una mecánica que lo diferencia del resto de la saga: dos personajes comparten un mismo kart\n\nMientras uno conduce, el otro se encarga de utilizar los objetos. Esta combinación transforma cada carrera en una mezcla de velocidad, estrategia y caos, permitiendo llevar hasta dos objetos y aprovechar las habilidades especiales de determinadas parejas de personajes, desde las gigantescas bananas de Donkey Kong hasta los devastadores caparazones de Bowser, cada carrera ofrece oportunidades para cambiar el rumbo de la competición.\n\nMario Kart: Double Dash!! Plus amplía la experiencia original con una extensa selección de contenido inspirado en diferentes entregas de la saga\n\nEl cambio más destacado está en las pistas: a los 16 circuitos originales se suman 64 pistas retro, elevando el catálogo a un total de 80 circuitos. Recorre escenarios inspirados en distintas generaciones de Mario Kart, desde las entregas de SNES y Nintendo 64 hasta Mario Kart DS, Wii y 3DS\n\nAdemas, Retro Track Grand Prix expande el catálogo de pistas de Double Dash mediante un proyecto de modificación centrado en incorporar circuitos inspirados en distintas generaciones de la franquicia.Gran variedad de pistas retro: circuitos inspirados en entregas que abarcan desde SNES hasta Nintendo 3DS\n\nSu propuesta consiste en ampliar las posibilidades del juego sin eliminar las copas originales, manteniendo la esencia visual y jugable del título de GameCube\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "hhttps://raw.githubusercontent.com/Sungsam-2370/Epsilon/main",
+      "zip_url": "http://205.209.102.107/Luis/MDOUBLE.zip",
+      "instalacion": "forwarders/ports_juegos/MarioKart_DoubleDash/MarioKart_DoubleDash.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/MKDD-NX/MKDD-NX.nro",
+      "filesize": 4095170,
+      "extracted": 5189155,
+      "updated": "16/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
