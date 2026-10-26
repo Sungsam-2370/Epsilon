@@ -4196,6 +4196,24 @@
       "screens": 5
     },
     {
+      "name": "COLDF",
+      "title": "Cold Fear Español",
+      "author": "Gerisson1996",
+      "version": "0.0.3.1",
+      "description": "Port Xbox",
+      "details": "Coldfear en Español\n\nCold Fear es un thriller de terror y supervivencia que destaca por su inigualable ambientación marina y mecánicas de disparo dinámicas, aunque quedó eclipsado al competir directamente con el gigante Resident Evil 4, este título se ha convertido con el paso de los años en una auténtica joya oculta de culto para los amantes del género.\n\nUna pesadilla en alta mar\n\nLa trama nos pone en los zapatos de Tom Hansen, un guardacostas norteamericano enviado a investigar un ballenero ruso a la deriva en el peligroso estrecho de Bering. Lo que comienza como una misión de rescate rutinaria se transforma rápidamente en un baño de sangre cuando Hansen descubre que la tripulación y los soldados rusos han sido diezmados por unos parásitos grotescos llamados exocelos. Estas criaturas mutantes infectan, mutan y reaniman los cadáveres, obligando al jugador a dominar el tiro a la cabeza como único método efectivo para detenerlos definitivamente\n\nEl océano como el peor enemigo\n\nEl mayor acierto de Cold Fear radica en su escenario viviente: el barco. Una tormenta brutal azota la cubierta exterior constantemente. Esto no es un mero efecto visual; el oleaje violento sacude la nave de forma impredecible, alterando el centro de gravedad de Hansen y provocando que apunte de manera errática. El balanceo real del buque puede hacer que el protagonista sea golpeado por cajas sueltas, cables de alta tensión o que incluso caiga directamente por la borda si el jugador no se sujeta a las barandillas mediante una barra de resistencia física\n\nInnovación técnica y jugabilidad\n\nA diferencia de los rígidos controles tipo tanque de la época, el juego introdujo una fluidez bastante avanzada para su tiempo\n\nPerspectiva híbrida: Alterna entre una cámara fija cinematográfica para la exploración y una vista sobre el hombro mucho más precisa al momento de apuntar con las armas\n\nMovimiento táctico: Permite avanzar mientras se apunta con el arma levantada, un avance técnico que incluso superó la propuesta estática de Resident Evil 4\n\nInteracción con el entorno: El arsenal de siete armas se complementa con la posibilidad de disparar a válvulas de gas, extintores o paneles eléctricos para eliminar de forma creativa a los enemigos\n\nCon una duración aproximada de 6 horas, Cold Fear ofrece una experiencia intensa, claustrofóbica y sumamente atmosférica. No logró el reconocimiento masivo en su lanzamiento debido a las comparaciones inevitables de la industria, pero su excelente simulación del agua, la inestabilidad de la tormenta y su propuesta de acción directa lo consolidan como un clásico imperdible del survival horror\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "hhttps://raw.githubusercontent.com/Sungsam-2370/Epsilon/main",
+      "zip_url": "http://205.209.102.107/Luis/COLDF.zip",
+      "instalacion": "forwarders/ports_juegos/Cold_Fear/Cold_Fear.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/coldfear/coldfear.nro",
+      "filesize": 2897211,
+      "extracted": 3943158,
+      "updated": "17/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
