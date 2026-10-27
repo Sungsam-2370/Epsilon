@@ -4249,6 +4249,24 @@
       "screens": 5
     },
     {
+      "name": "MKMONKS",
+      "title": "Mortal Kombat: Shaolin Monks",
+      "author": "Thorhx",
+      "version": "0.3.1",
+      "description": "Port Xbox",
+      "details": "Mortal Kombat: Shaolin Monks (2005) es recordado como uno de los mejores spin-offs de la saga. A diferencia de las entregas de lucha tradicionales de la franquicia, este título apostó con éxito por el género de aventura de acción y beat 'em up cooperativo, logrando un gran recibimiento tanto de la crítica como de los jugadores de la época\n\nSistema de pelea dinámico: El combate se enfoca fuertemente en la creación de combos aéreos y terrestres, utilizando un esquema de control sencillo de tres botones de golpe que se puede expandir mediante modificadores para ejecutar ataques especiales\n\nGore y movimientos icónicos: Las barras de energía permiten desatar los emblemáticos Fatalities, Brutalities y Multalities, los cuales no solo son espectaculares visualmente, sino que otorgan grandes bonificaciones de experiencia para desbloquear nuevas mejoras y movimientos\n\nCooperativo local legendario: Jugar la campaña junto a un amigo controlando simultáneamente a Liu Kang y Kung Lao es considerada la experiencia definitiva del juego, elevando de gran manera la diversión y la rejugabilidad\n\nEl juego destaca por su rejugabilidad gracias a la inclusión de coleccionables y secretos. Los puntos de experiencia actúan como la moneda de cambio para personalizar el repertorio de ataques del personaje. Además de la campaña principal basada libremente en los eventos de Mortal Kombat II, el título ofrece un modo Versus clásico y la opción de desbloquear a Scorpion y Sub-Zero como personajes completamente jugables para el modo historia\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "hhttps://raw.githubusercontent.com/Sungsam-2370/Epsilon/main",
+      "zip_url": "http://205.209.102.107/Luis/MKMONKS.zip",
+      "instalacion": "forwarders/ports_juegos/MK_ShaolinMonks/MK_ShaolinMonks.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/shaolinmonks/shaolinmonks.nro",
+      "filesize": 2980264,
+      "extracted": 3976331,
+      "updated": "18/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
