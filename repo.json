@@ -4232,6 +4232,23 @@
       "screens": 5
     },
     {
+      "name": "METALGERI",
+      "title": "Metal Gear Rising Revengeance",
+      "author": "Camirock17 - NxMasters - Carafe/WineNx",
+      "version": "1.1.0",
+      "description": "Port PC",
+      "details": "Metal Gear Rising: Revengeance es una joya salvaje del género hack and slash que redefine por completo el universo de la saga\n\nEste spin-off abandona el clásico sigilo táctico de la franquicia para sumergirnos en un espectáculo de acción hiperbólica, frenética y brutal liderado por el cyborg-ninja Raiden\n\nLa jugabilidad es el pilar maestro de la experiencia. A diferencia de otros títulos de acción donde basta con machacar botones de forma aleatoria, aquí se exige precisión, fluidez y una agresividad constante. El sistema se sostiene sobre dos innovaciones brillantes\n\nModo Katana y Zandatsu: Esta mecánica permite ralentizar el tiempo para realizar cortes libres y milimétricos en cualquier dirección. Al rebanar puntos específicos de los enemigos, Raiden puede ejecutar el Zandatsu (cortar y tomar), arrancando las columnas vertebrales cibernéticas de sus rivales para restaurar instantáneamente su salud y energía. Esto elimina la necesidad de buscar botiquines y premia el juego puramente ofensivo\n\nSistema de Desvío (Parry): En lugar de un botón de bloqueo convencional, la defensa requiere presionar el joystick hacia el atacante junto al botón de golpe débil en el momento exacto. Dominar este contraataque es la clave para sobrevivir, transformando el combate en un adictivo duelo de reflejos\n\nEl juego es una inyección de adrenalina pura. Los encuentros con los jefes finales —miembros de la milicia Desperado como Mistral, Monsoon o el icónico Senador Armstrong— no son solo desafíos técnicos memorables, sino hitos de la espectacularidad visual\n\nCada una de estas batallas alcanza el clímax gracias a una banda sonora de metal vocal interactiva. Las letras de los temas musicales se activan dinámicamente justo en las fases más intensas de los combates, disparando los niveles de epicidad y conectando directamente con las motivaciones de los personajes\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "instalacion_directa": "http://205.209.102.107/Luis/Dir/METALGERI.nsz",
+      "license": "Español",
+      "category": "NxMasters",
+      "binary": "/none",
+      "filesize": 7697873,
+      "extracted": 7697873,
+      "updated": "18/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
