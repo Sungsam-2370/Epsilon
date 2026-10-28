@@ -4267,6 +4267,25 @@
       "screens": 5
     },
     {
+      "name": "MKNUEVEKE",
+      "title": "Mortal Kombat Komplete Edition",
+      "author": "Thorhx",
+      "version": "1.0.0",
+      "description": "Port Xbox360",
+      "details": "IMPORTANTE: El juego carga shaders mientras van jugando, la primera vez partes del escenario y personajes pueden no verse, pero se iran guardando, haciendo que la carga sea mas rapida cada vez\n\nMortal Kombat: Komplete Edition (Mortal Kombat 9) representa el regreso triunfal de la franquicia a sus raíces bidimensionales, consolidándose como una de las entregas más sólidas, divertidas y completas en la historia de los juegos de lucha, esta versión definitiva recopila todo el contenido descargable lanzado previamente, ofreciendo una experiencia visceral que equilibra la nostalgia de los años 90 con mecánicas modernas de combate\n\nEl título rescata la jugabilidad clásica en un plano 2D con detallados modelados en 3D. Los controles responden con excelente fluidez y permiten un robusto sistema de combos combinando golpes simples con movimientos especiales accesibles\n\nLa gran innovación de esta entrega es la barra de energía de tres niveles. Su máximo atractivo son los espectaculares movimientos X-Ray, ataques devastadores que muestran radiografías de los huesos rompiéndose y los órganos internos sufriendo daños en tiempo real. El nivel de violencia explícita se mantiene fiel a la esencia original: los personajes acumulan heridas y desgarros en la ropa durante la pelea, culminando en los icónicos, sangrientos y brutales Fatalities. También se incluye el nostálgico regreso de los Babalities\n\nA diferencia de la versión estándar, la Komplete Edition incluye todos los DLCs lanzados para expandir la plantilla de peleadores. Esto se traduce en la incorporación de cuatro personajes jugables adicionales: Skarlet, Kenshi, Rain y el sorprendente invitado del cine de terror, Freddy Krueger. Asimismo, añade 15 trajes clásicos nostálgicos y tres Fatalities clásicas para Scorpion, Sub-Zero y Reptile.\n\nModos de Juego\n\nModo Historia: Una reimaginación impecable de la trilogía original (MK1, MK2 y MK3). Mediante cinemáticas fluidas que conectan directamente con los combates, Raiden intenta alterar el pasado para evitar el Armagedón. Es considerado uno de los mejores modos campaña del género\n\nTorre de los Retos: Un enorme desafío compuesto por 300 misiones únicas con condiciones especiales de victoria, minijuegos como Test Your Might y batallas humorísticas\n\nKripta y Modos Arcade: El clásico camino para derrotar a Shang Tsung, Goro y Shao Kahn, junto con un espacio interactivo para desbloquear arte conceptual, trajes alternativos y Fatalities usando las monedas ganadas en el juego\n\nPeleas en Equipo (Tag Team): Modos de combate 2 contra 2 que elevan la diversión cooperativa y competitiva tanto en local como en línea\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "hhttps://raw.githubusercontent.com/Sungsam-2370/Epsilon/main",
+      "zip_url": "http://205.209.102.107/Luis/MKNUEVEKE_1.zip",
+      "zip_url_2": "http://205.209.102.107/Luis/MKNUEVEKE_2.zip",
+      "instalacion": "forwarders/ports_juegos/MK_Nueve/MK_Nueve.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/mk9-nx/mk9.nro",
+      "filesize": 6960188,
+      "extracted": 7580387,
+      "updated": "19/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
