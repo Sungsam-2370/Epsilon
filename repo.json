@@ -3764,10 +3764,11 @@
       "name": "WAKER",
       "title": "TLoZ Wind Waker HD",
       "author": "centollOS",
-      "version": "0.4.7",
+      "version": "1.0.0",
       "description": "Port WiiU",
       "details": "IMPORTANTE: El menu de configuracion se abre dejando presionado el boton menos (-) del joycon izquierdo, Esta version ya trae precargado los shaders, por lo que no deberian notar falta de texturas por tiempos de carga, debe ir mas fluido, Puede que requiera algo de overclock para compensar las texturas mas pesadas, si lo consideran usenlo\n\nThe Legend of Zelda: The Wind Waker HD para Wii U es la versión definitiva de uno de los mayores clásicos de Nintendo, logrando corregir los pocos errores de ritmo del juego original y ensalzando un apartado visual que sigue pareciendo atemporal.\n\nLo mejor de la versión HD\n\nMejoras de calidad de vida: La inclusión de la Vela Veloz (que duplica la velocidad del barco y cambia la dirección del viento automáticamente) dinamiza por completo la navegación por el Gran Mar\n\nAdiós al relleno: Se simplificó notablemente la tediosa búsqueda de la Trifuerza al final del juego, eliminando la necesidad de traducir tantos mapas y haciendo el tramo final mucho más fluido\n\nTratamiento visual y sonoro: Funciona a 1080p nativos, estrena un motor de iluminación global que hace brillar su estética cel-shading y cuenta con una banda sonora reorquestada que es una delicia\n\nEs una aventura repleta de carisma, con una de las mejores historias de la franquicia y una jugabilidad que se siente tan fresca hoy como el primer día\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
       "url": "https://raw.githubusercontent.com/Sungsam-2370/Epsilon/main",
+      "actualizacion": "http://205.209.102.107/Luis/Act/ACT_WAKERHD_100.zip",
       "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/WAKERHD_47.zip",
       "instalacion": "forwarders/ports_juegos/Zelda_Wind_Waker_HD/Zelda_Wind_Waker_HD.nsp",
       "license": "Español - Multi idioma",
@@ -3775,7 +3776,7 @@
       "binary": "/switch/wwhd/wwhd.nro",
       "filesize": 1519672,
       "extracted": 1568887,
-      "updated": "09/08/2026",
+      "updated": "20/08/2026",
       "screens": 5
     },
     {
