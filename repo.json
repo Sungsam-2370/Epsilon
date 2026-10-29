@@ -4342,6 +4342,24 @@
       "screens": 2
     },
     {
+      "name": "RSQUA",
+      "title": "Rogue Squadron 64",
+      "author": "FurryLilManChild",
+      "version": "1.0.0",
+      "description": "Port PC-N64",
+      "details": "IMPORTANTE: El menu de la configruacion se abre con el oton mas y el boton menos de los joycon al mismo tiempo, pueden existir alentamientos durante la carga de shaders esto solo pasara la primera vez que cargue algun escenario nuevo, la funcion widescreen presenta bugs en los laterales pues el juego no dibuja nada en esa zona (asi lo diseñaron) asi que esta configruado a modo 4:3\n\nStar Wars: Rogue Squadron para Nintendo 64 es una de las obras maestras más queridas de la consola y un pilar fundamental en los videojuegos de la franquicia, este simulador de combate aéreo logró exprimir el hardware de Nintendo al máximo, ofreciendo a los fanáticos la oportunidad única de liderar el legendario Escuadrón Rogue bajo el mando de Luke Skywalker\n\nHistoria y Ambientación\n\nCronológicamente, la trama se sitúa unos seis meses después de la destrucción de la primera Estrella de la Muerte en la Batalla de Yavin. Aunque hoy en día forma parte del universo Legacy (ya no es canon oficial), en su momento expandió de forma brillante las vivencias de la Alianza Rebelde en su lucha por detener al Imperio. A través de 16 misiones principales distribuidas en varios capítulos, el juego nos enfrenta al comandante imperial Crix Madine en escenarios icónicos como los desiertos de Tatooine o ciudades imperiales\n\nApartado Técnico y Gráficos\n\nFactor 5 recurrió a una auténtica magia técnica para la época. Fue uno de los primeros títulos en aprovechar el Expansion Pack de Nintendo 64, lo que permitía incrementar radicalmente la resolución en pantalla. Las naves clásicas de las películas (como el X-Wing, Y-Wing y A-Wing) fueron recreadas con total fidelidad y detalle. El único gran sacrificio técnico fue la clásica y densa niebla de distancia, un truco necesario para mantener la estabilidad del juego ante la carga de elementos en 3D. A pesar de que la tasa de cuadros por segundo podía volverse inestable en momentos de mucha acción, visualmente se posicionó como lo mejor del catálogo de la consola\n\nJugabilidad y Control\n\nLa primera toma de contacto con el control del Nintendo 64 podía resultar abrumadora debido al uso de prácticamente todos los botones del mando. Sin embargo, el mapeado resultó ser sumamente inteligente. Una vez superada la curva de aprendizaje, pilotar se volvía una delicia: podías hacer giros, piruetas y administrar el arsenal con precisión absoluta. El diseño de niveles es abierto y dinámico; en una misma misión podías empezar escoltando un transporte aliado para terminar defendiendo una base o derribando imponentes AT-AT con el cable de un Snowspeeder. Además, cuenta con una rejugabilidad enorme gracias a la búsqueda de medallas y la posibilidad de desbloquear naves secretas como el Halcón Milenario\n\nStar Wars: Rogue Squadron no solo es un juego indispensable para los fanáticos de la saga espacial, sino también para cualquier amante de los arcades de combate aéreo. Aunque los años han pasado y sus gráficos en baja resolución evidencian su edad, el corazón del juego —su diversión, su retadora dificultad y su atmósfera— permanece intacto\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "hhttps://raw.githubusercontent.com/Sungsam-2370/Epsilon/main",
+      "zip_url": "http://205.209.102.107/Luis/RSQUA.zip",
+      "instalacion": "forwarders/ports_juegos/Rogue_Squadron_64/Rogue_Squadron_64.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/rs64recomp/rs64recomp.nro",
+      "filesize": 20035,
+      "extracted": 30002,
+      "updated": "21/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
