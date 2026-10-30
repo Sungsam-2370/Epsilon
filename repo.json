@@ -4420,6 +4420,24 @@
       "screens": 5
     },
     {
+      "name": "JSET",
+      "title": "Jet Set Radio Future - Unleashed",
+      "author": "Eladerino",
+      "version": "0.1.0",
+      "description": "Port Xbox",
+      "details": "Jet Set Radio Future (junto con su reciente proyecto fan de descompilación y optimización conocido en la comunidad como Unleashed) es la evolución definitiva del clásico de culto. Esta versión no solo revive la joya exclusiva de la Xbox original lanzada en 2002, sino que refina la experiencia de patinaje callejero, graffiti y contracultura para adaptarla a los estándares de rendimiento actuales\n\nUna reinvención con ritmo y fluidez\n\nA diferencia del título original de Dreamcast, Future funciona más como un vibrante remix que como una secuela lineal. El cambio más importante radica en su jugabilidad fluida: el temporizador estricto ha desaparecido por completo y el tosco sistema de minijuegos analógicos para pintar graffitis fue reemplazado por un disparo dinámico con el gatillo derecho. Esto permite que el flujo del movimiento nunca se detenga mientras exploras un Tokio futurista, hiperconectado y colosal, usando el renovado garaje de la banda de los GG's como el centro de operaciones principal\n\nIdentidad visual y sonora inigualable\n\nEl juego es un pilar histórico del uso de la técnica cel-shading, logrando una estética anime en 3D que ha envejecido con un estilo impecable. Cada distrito se siente vivo gracias a una arquitectura surrealista y peatones que reaccionan a tus acrobacias. Todo esto se amalgama con la legendaria banda sonora dirigida por Hideki Naganuma, una fusión perfecta de hip hop electrónico, K-funk y tecno moderno narrada por el icónico Profesor K desde su estación de radio pirata, inyectando adrenalina pura en cada combo\n\nEl factor Unleashed: Descompilación y optimización moderna\n\nLa iniciativa Unleashed representa el esfuerzo de la comunidad por preservar el juego mediante ingeniería inversa. Aunque los reportes iniciales en PC apuntan a que los menús principales pueden sufrir caídas de rendimiento debido a la carga masiva de fuentes de texto, una vez que entras a las calles de Tokio el motor responde de maravilla. El proyecto busca llevar la experiencia nativa de Xbox a resoluciones modernas sin depender de la emulación pesada, permitiendo redescubrir los masivos mapas tridimensionales, los retos de las Mystery Tapes y las intensas batallas contra la policía corrupta de la corporación Rokkaku\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "hhttps://raw.githubusercontent.com/Sungsam-2370/Epsilon/main",
+      "zip_url": "http://205.209.102.107/Luis/JSET.zip",
+      "instalacion": "forwarders/ports_juegos/JetSetRadio_Future/JetSetRadio_Future.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/jsrf-unleashed/jsrf-unleashed.nro",
+      "filesize": 1719035,
+      "extracted": 2638578,
+      "updated": "22/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
