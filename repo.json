@@ -4382,6 +4382,24 @@
       "screens": 5
     },
     {
+      "name": "AGEEM",
+      "title": "Age of Empire 2 - OpenAoK",
+      "author": "Zaydme",
+      "version": "0.2.1",
+      "description": "Port PC",
+      "details": "Adaptado al Español por Codebr0ken\n\nOpenAoK es una de las herramientas comunitarias más ambiciosas y nostálgicas para los amantes del clásico Age of Empires II. No se trata de un simple parche gráfico o de una expansión oficial, sino de un proyecto de código abierto diseñado para recrear fielmente el motor original de Age of Empires II (el Genie Engine) moderno, multiplataforma y altamente optimizado\n\n¿Qué es OpenAoK?\n\nl objetivo principal de OpenAoK es la preservación y la modernización. A diferencia de las versiones oficiales remasterizadas por Microsoft, OpenAoK busca que el juego clásico de 1999 funcione de manera nativa en sistemas operativos modernos, sin necesidad de emuladores pesados. Utiliza los archivos de datos originales del juego (gráficos, sonidos, mapas) pero corre sobre un código completamente limpio y renovado.\n\nRendimiento impecable: Al estar reescrito desde cero en lenguajes de programación modernos, el juego aprovecha mejor el hardware actual. Adiós a los tirones (stuttering) o caídas de fotogramas cuando hay 500 unidades en pantalla\n\nFidelidad absoluta: Respeta la jugabilidad, la inteligencia artificial original y la estética pixel-art del juego de finales de los 90. Se siente exactamente como el juego que jugaste en tu infancia.\n\nSoporte para pantallas anchas: Adapta la resolución original a monitores modernos de alta definición sin deformar la imagen ni los menús\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "hhttps://raw.githubusercontent.com/Sungsam-2370/Epsilon/main",
+      "zip_url": "http://205.209.102.107/Luis/AGEEM.zip",
+      "instalacion": "forwarders/ports_juegos/Age_of_Empire_2/Age_of_Empire_2.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/openaok/OpenAoK.nro",
+      "filesize": 282259,
+      "extracted": 383506,
+      "updated": "21/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
