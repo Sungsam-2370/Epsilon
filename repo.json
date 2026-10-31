@@ -4440,6 +4440,24 @@
       "screens": 5
     },
     {
+      "name": "SIHILLHOME",
+      "title": "Silent Hill Homecoming",
+      "author": "Gerisson1996",
+      "version": "1.0.0",
+      "description": "Port Xbox360",
+      "details": "Silent Hill: Homecoming (2008) es una de las entregas más divisorias y debatidas de toda la franquicia de Konami. Al ser el primer título principal de la saga no desarrollado por el aclamado Team Silent (dejando el testigo en manos del estudio estadounidense Double Helix Games), el juego marcó un drástico cambio de rumbo que buscaba occidentalizar la fórmula original, priorizando la acción cruda y el gore explícito sobre el terror psicológico sutil\n\nLa Historia: Un misterio familiar\n\nEl juego sigue a Alex Shepherd, un ex-marine que regresa a su hogar en Shepherd's Glen tras sufrir traumas en el frente de batalla. Al llegar, descubre que su pueblo natal está sumido en una extraña niebla, su padre ha desaparecido y su madre se encuentra en un estado catatónico. La trama principal se centra en la búsqueda desesperada de su hermano menor, Josh, lo que eventualmente arrastrará a Alex al infierno de Silent Hill\n\nJugabilidad: Un Survival Horror con alma de Acción\n\nJugabilidad: Un Survival Horror con alma de Acción\n\nPerspectiva renovada: Cuenta con una cámara libre en tercera persona sobre el hombro que modernizó la navegación en los escenarios.\n\nEl reverso de la moneda: Para muchos puristas, la abundancia de munición, los botiquines y el enfoque directo en las peleas diluyeron la constante sensación de vulnerabilidad e indefensión clásica del género. Además, el combate llega a tornarse repetitivo y tosco debido a un diseño de niveles estrecho y colisiones erráticas de los enemigos\n\nAtmósfera, Gráficos y Sonido\n\nBanda Sonora Sublime: El maestro Akira Yamaoka regresó para componer la música. Canciones como Alex Theme u One More Soul for the Call son auténticas joyas melancólicas que salvan gran parte de la inmersión del título.\n\nEl Otro Mundo en tiempo real: Uno de sus mayores hitos tecnológicos fue mostrar la transición a la dimensión de pesadilla en tiempo real (las paredes descascarándose para mostrar óxido y sangre), una obvia pero espectacular inspiración estética del film de Christophe Gans\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "hhttps://raw.githubusercontent.com/Sungsam-2370/Epsilon/main",
+      "zip_url": "http://205.209.102.107/Luis/SIHILLHOME.zip",
+      "instalacion": "forwarders/ports_juegos/SilentHill_Homecoming/SilentHill_Homecoming.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/shh-nx/shh.nro",
+      "filesize": 4260041
+      "extracted": 5160096,
+      "updated": "23/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
